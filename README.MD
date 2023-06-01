@@ -3,3 +3,5 @@ This file will demonstrate versioning with git
 Thsi is class 16
 I printed my first commit log
 I made my first commit
+
+New Era Solutions Academy
